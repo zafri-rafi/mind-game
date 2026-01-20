@@ -1,5 +1,7 @@
 # 🧠 The Python Mentalist
 
+[![Python Unit Tests](https://github.com/zafri-rafi/Mind-Game/actions/workflows/python-tests.yml/badge.svg)](https://github.com/zafri-rafi/Mind-Game/actions)
+
 ### *A Mathematical Mind-Reading Game*
 
 **The Python Mentalist** is a sleek command-line application that demonstrates the power of algebra through an interactive "mind-reading" experience. By guiding the user through a series of randomized mathematical operations, the program accurately predicts the final result every time.
